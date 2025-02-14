@@ -1,0 +1,22 @@
+# ninja log v6
+45	480	7593831981773342	C:/Users/Usuario/Documents/Bloc/Bloc/build/Desktop_Qt_6_8_1_MinGW_64_bit-Release/CMakeFiles/cmake.verify_globs	7493033be6e71a0d
+508	2117	7593831473678933	Bloc_autogen/timestamp	f1a7ce2fd772459
+2126	4766	7593831475239797	CMakeFiles/Bloc.dir/main.cpp.obj	79b6beac429d4587
+508	2117	7593831473678933	Bloc_autogen/mocs_compilation.cpp	f1a7ce2fd772459
+508	2117	7593831473678933	C:/Users/Usuario/Documents/Bloc/Bloc/build/Desktop_Qt_6_8_1_MinGW_64_bit-Release/Bloc_autogen/timestamp	f1a7ce2fd772459
+508	2117	7593831473678933	C:/Users/Usuario/Documents/Bloc/Bloc/build/Desktop_Qt_6_8_1_MinGW_64_bit-Release/Bloc_autogen/mocs_compilation.cpp	f1a7ce2fd772459
+2120	4761	7593831475239797	CMakeFiles/Bloc.dir/Bloc_autogen/mocs_compilation.cpp.obj	43c91726ccf7f91d
+1856	5149	7593787441563701	CMakeFiles/Bloc.dir/mainwindow.cpp.obj	d0c8e29ec5a2da8
+5701	6305	7593831511059753	Bloc.exe	f3b2af7b5a5cd227
+432	2010	7593831998993778	build.ninja	f588ec6f23fec5f9
+2132	5699	7593831475239797	CMakeFiles/Bloc.dir/NotePencil.cpp.obj	2fbc5c588f8b73cb
+481	2076	7593831998993778	build.ninja	f588ec6f23fec5f9
+44	462	7593832000705581	C:/Users/Usuario/Documents/Bloc/Bloc/build/Desktop_Qt_6_8_1_MinGW_64_bit-Release/CMakeFiles/cmake.verify_globs	7493033be6e71a0d
+479	2104	7593832019619013	Bloc_autogen/timestamp	f1a7ce2fd772459
+479	2104	7593832019619013	Bloc_autogen/mocs_compilation.cpp	f1a7ce2fd772459
+479	2104	7593832019619013	C:/Users/Usuario/Documents/Bloc/Bloc/build/Desktop_Qt_6_8_1_MinGW_64_bit-Release/Bloc_autogen/timestamp	f1a7ce2fd772459
+479	2104	7593832019619013	C:/Users/Usuario/Documents/Bloc/Bloc/build/Desktop_Qt_6_8_1_MinGW_64_bit-Release/Bloc_autogen/mocs_compilation.cpp	f1a7ce2fd772459
+2106	5767	7593832021348018	CMakeFiles/Bloc.dir/Bloc_autogen/mocs_compilation.cpp.obj	43c91726ccf7f91d
+2114	5884	7593832021427970	CMakeFiles/Bloc.dir/main.cpp.obj	79b6beac429d4587
+2124	6801	7593832021527917	CMakeFiles/Bloc.dir/NotePencil.cpp.obj	2fbc5c588f8b73cb
+6802	7082	7593832068302326	Bloc.exe	f3b2af7b5a5cd227

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>NotePencil</class>
+ <widget class="QMainWindow" name="NotePencil">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>806</width>
+    <height>369</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QPlainTextEdit" name="plainTextEdit">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>0</y>
+      <width>821</width>
+      <height>561</height>
+     </rect>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>806</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <widget class="QMenu" name="menuAbout_Us">
+    <property name="title">
+     <string>About Us</string>
+    </property>
+    <addaction name="actionInformacion"/>
+   </widget>
+   <widget class="QMenu" name="menuArchivo">
+    <property name="title">
+     <string>Archivo</string>
+    </property>
+    <addaction name="actionAbrir"/>
+    <addaction name="actionGuardar"/>
+    <addaction name="actionSalir"/>
+   </widget>
+   <addaction name="menuArchivo"/>
+   <addaction name="menuAbout_Us"/>
+  </widget>
+  <action name="actionAbrir">
+   <property name="icon">
+    <iconset theme="QIcon::ThemeIcon::DocumentOpen">
+     <normaloff>Icons/OpenFile.png</normaloff>Icons/OpenFile.png</iconset>
+   </property>
+   <property name="text">
+    <string>Abrir...</string>
+   </property>
+   <property name="toolTip">
+    <string>Abrir archivo existente.</string>
+   </property>
+   <property name="shortcut">
+    <string>Ctrl+O</string>
+   </property>
+  </action>
+  <action name="actionGuardar">
+   <property name="icon">
+    <iconset theme="QIcon::ThemeIcon::DocumentSave">
+     <normaloff>Icons/SaveFile.png</normaloff>Icons/SaveFile.png</iconset>
+   </property>
+   <property name="text">
+    <string>Guardar</string>
+   </property>
+   <property name="toolTip">
+    <string>Guardar archivo.</string>
+   </property>
+   <property name="shortcut">
+    <string>Ctrl+S</string>
+   </property>
+   <property name="menuRole">
+    <enum>QAction::MenuRole::NoRole</enum>
+   </property>
+  </action>
+  <action name="actionSalir">
+   <property name="checkable">
+    <bool>false</bool>
+   </property>
+   <property name="icon">
+    <iconset theme="QIcon::ThemeIcon::SystemLogOut">
+     <normaloff>Icons/Exit.png</normaloff>Icons/Exit.png</iconset>
+   </property>
+   <property name="text">
+    <string>Salir</string>
+   </property>
+   <property name="menuRole">
+    <enum>QAction::MenuRole::NoRole</enum>
+   </property>
+  </action>
+  <action name="actionInformacion">
+   <property name="icon">
+    <iconset theme="QIcon::ThemeIcon::InsertImage">
+     <normaloff>Icons/Info.png</normaloff>Icons/Info.png</iconset>
+   </property>
+   <property name="text">
+    <string>Información</string>
+   </property>
+   <property name="menuRole">
+    <enum>QAction::MenuRole::NoRole</enum>
+   </property>
+  </action>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

@@ -1,0 +1,9 @@
+C:/Users/Usuario/Documents/Bloc/Bloc/build/Desktop_Qt_6_8_1_MinGW_64_bit-Release2/CMakeFiles/Bloc.dir
+C:/Users/Usuario/Documents/Bloc/Bloc/build/Desktop_Qt_6_8_1_MinGW_64_bit-Release2/CMakeFiles/edit_cache.dir
+C:/Users/Usuario/Documents/Bloc/Bloc/build/Desktop_Qt_6_8_1_MinGW_64_bit-Release2/CMakeFiles/rebuild_cache.dir
+C:/Users/Usuario/Documents/Bloc/Bloc/build/Desktop_Qt_6_8_1_MinGW_64_bit-Release2/CMakeFiles/list_install_components.dir
+C:/Users/Usuario/Documents/Bloc/Bloc/build/Desktop_Qt_6_8_1_MinGW_64_bit-Release2/CMakeFiles/install.dir
+C:/Users/Usuario/Documents/Bloc/Bloc/build/Desktop_Qt_6_8_1_MinGW_64_bit-Release2/CMakeFiles/install/local.dir
+C:/Users/Usuario/Documents/Bloc/Bloc/build/Desktop_Qt_6_8_1_MinGW_64_bit-Release2/CMakeFiles/install/strip.dir
+C:/Users/Usuario/Documents/Bloc/Bloc/build/Desktop_Qt_6_8_1_MinGW_64_bit-Release2/CMakeFiles/Bloc_autogen_timestamp_deps.dir
+C:/Users/Usuario/Documents/Bloc/Bloc/build/Desktop_Qt_6_8_1_MinGW_64_bit-Release2/CMakeFiles/Bloc_autogen.dir
